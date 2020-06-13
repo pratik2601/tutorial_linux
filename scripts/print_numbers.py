@@ -1,3 +1,6 @@
+"""
+This python program generate infinite sequence of integer number and print them on terminal window.
+"""
 import time
 num=0
 while True:
